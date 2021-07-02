@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @jburgher
-- 👀 I’m interested in video games, Disney and fitness
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Title
+A5: CSV and Dictionaries
 
-<!---
-jburgher/jburgher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Description
+This assignment is about implement the functionality to read the CSV file containing the dataset, building a
+dictionary, and producing summary statistics and plots per class.
+
+
+## Creation 
+I've worked on A5 on Python and I followed the assignment guidelines step by step.
+The first thing I needed to do is make classes for each species pepal length/width and sepal length/width.
+I managed to open the csv file, but I couldn't display the average table of the iris file.
+
+
+Click this link if you want to try the app.
+a5_jburgher2017.py
+
